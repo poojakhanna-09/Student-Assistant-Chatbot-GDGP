@@ -1,0 +1,209 @@
+{
+  "college_info": {
+    "name": "Guru Daksh Government Polytechnic, Hisar",
+    "tagline": "Student Assistant Chatbot",
+    "note": "Guru Daksh Government Polytechnic, Hisar (Haryana) - established 1992, under the Department of Technical Education, Government of Haryana. Spread across approximately 40 acres, offering 13 diploma courses to about 3000 students."
+  },
+  "categories": [
+    {
+      "id": "admission",
+      "label": "Admission",
+      "entries": [
+        {
+          "keywords": ["admission process", "how to apply", "apply for diploma", "admission procedure"],
+          "question": "How do I apply for admission to the diploma course?",
+          "answer": "Admissions to diploma courses are done through the state polytechnic counselling process. Details such as the Diploma Prospectus, Key Dates, Admission Form, Online Registration, Counselling schedule and Seat Allotment are available on the official college website. You need to register on the counselling portal, fill in your choices, and report to the allotted college with original documents within the given deadline."
+        },
+        {
+          "keywords": ["eligibility", "who can apply", "minimum marks", "10th pass"],
+          "question": "What is the eligibility criteria for admission?",
+          "answer": "Candidates who have passed Class 10th (or equivalent) with Science and Mathematics are generally eligible. Exact percentage cut-offs depend on the counselling round and category, so check the latest counselling brochure on the official website."
+        },
+        {
+          "keywords": ["documents required", "documents needed", "admission documents"],
+          "question": "What documents are required at the time of admission?",
+          "answer": "Usually you need your 10th marksheet, category certificate (if applicable), residence proof, transfer certificate, character certificate, passport-size photographs, and the counselling allotment letter. Please carry both originals and photocopies."
+        },
+        {
+          "keywords": ["fee structure", "admission fee", "how much fee"],
+          "question": "What is the fee structure for admission?",
+          "answer": "The fee structure varies slightly every academic year and by category (general/reserved). Please check the official fee notice on the college notice board or website, or confirm with the accounts office."
+        },
+        {
+          "keywords": ["2026 admission", "current year admission", "latest admission notice"],
+          "question": "Where can I find the latest admission notices?",
+          "answer": "Admission notices for the current academic year (2026-27), including Key Dates, Online Registration and Seat Allotment updates, are published on the official college website. Please check it regularly during the admission season."
+        }
+      ]
+    },
+    {
+      "id": "courses",
+      "label": "Courses & Branches",
+      "entries": [
+        {
+          "keywords": ["branches available", "courses offered", "which branches", "diploma courses", "list of courses"],
+          "question": "Which diploma branches are offered at the college?",
+          "answer": "The college offers 13 diploma courses: Civil Engineering, Computer Engineering, Electrical Engineering, Electronics & Communication Engineering, Mechanical Engineering, Fashion Design, Fashion Technology, Finance Account & Auditing, Instrumentation & Control Engineering, Medical Electronics, Textile Design, Textile Processing, and Textile Technology."
+        },
+        {
+          "keywords": ["duration of diploma", "how many years", "course duration"],
+          "question": "What is the duration of the diploma course?",
+          "answer": "The diploma course is generally a 3-year program divided into 6 semesters."
+        },
+        {
+          "keywords": ["semester system", "how many semesters"],
+          "question": "How is the semester system structured?",
+          "answer": "The diploma is spread across 6 semesters, with each semester covering a fixed set of theory and practical subjects as per the state board of technical education syllabus."
+        },
+        {
+          "keywords": ["textile courses", "fashion courses"],
+          "question": "Does the college offer textile and fashion related diplomas?",
+          "answer": "Yes, the college offers Fashion Design, Fashion Technology, Textile Design, Textile Processing, and Textile Technology as diploma courses."
+        }
+      ]
+    },
+    {
+      "id": "exam",
+      "label": "Exams & Results",
+      "entries": [
+        {
+          "keywords": ["exam schedule", "date sheet", "exam date", "when is exam"],
+          "question": "Where can I find the exam date sheet?",
+          "answer": "The date sheet is released on the official board/college website before every semester exam and is also displayed on the notice board. Please check both regularly closer to exam time."
+        },
+        {
+          "keywords": ["result", "check result", "how to check result"],
+          "question": "How can I check my semester result?",
+          "answer": "Results are usually published on the HSBTE (state technical education board) official website. You will need your roll number to check your result online."
+        },
+        {
+          "keywords": ["reappear", "back paper", "failed subject", "supplementary exam"],
+          "question": "What if I fail in a subject?",
+          "answer": "If you do not clear a subject, you can appear for the reappear/supplementary exam in the next available exam cycle as per HSBTE rules."
+        },
+        {
+          "keywords": ["attendance requirement", "minimum attendance", "attendance percentage"],
+          "question": "What is the minimum attendance required to sit in exams?",
+          "answer": "Most polytechnic institutions require a minimum of 75% attendance in each subject to be eligible to appear in the semester exam. Please confirm the exact figure with your class coordinator."
+        },
+        {
+          "keywords": ["exam branch", "exam office location", "dmc", "diploma marksheet", "hsbte nodal code"],
+          "question": "Where is the Exam Branch and how do I get help with my DMC or diploma?",
+          "answer": "The Exam Branch is located in B-Block, Ground Floor, and handles examinations, results, DMCs (Detailed Marks Cards) and other diploma-related assistance. The institute's HSBTE Exam Nodal Centre Code is 4."
+        }
+      ]
+    },
+    {
+      "id": "facilities",
+      "label": "Campus Facilities",
+      "entries": [
+        {
+          "keywords": ["library timing", "library hours", "when does library open"],
+          "question": "What are the library timings?",
+          "answer": "The library is generally open on all working days during college hours. For exact timings and book issue rules, please check with the librarian."
+        },
+        {
+          "keywords": ["hostel facility", "hostel available", "is there hostel", "boys hostel", "girls hostel"],
+          "question": "Does the college provide hostel facility?",
+          "answer": "Yes, the campus has separate Boys' and Girls' Hostels along with a Guest House for visitors."
+        },
+        {
+          "keywords": ["lab facility", "computer lab", "practical labs", "cnc lab", "workshop"],
+          "question": "What lab and workshop facilities are available?",
+          "answer": "The campus has well-equipped classrooms, laboratories and workshops for all departments, including a CNC Lab, along with computer labs for programming, networking and project work as per the semester's practical syllabus."
+        },
+        {
+          "keywords": ["wifi", "internet facility"],
+          "question": "Is Wi-Fi available on campus?",
+          "answer": "Yes, free high-speed Wi-Fi is available across the campus."
+        },
+        {
+          "keywords": ["sports facility", "playground", "gym", "gymnasium", "basketball", "volleyball", "cricket ground"],
+          "question": "What sports facilities are available on campus?",
+          "answer": "The campus has a Gymnasium, a Football/Cricket ground, and Basketball & Volleyball courts for students."
+        },
+        {
+          "keywords": ["canteen", "food court", "cafeteria", "vita booth"],
+          "question": "Is there a canteen on campus?",
+          "answer": "Yes, the campus has a Canteen and a Vita Booth for students."
+        },
+        {
+          "keywords": ["security", "cctv", "safety on campus"],
+          "question": "Is the campus secure?",
+          "answer": "Yes, the campus is under CCTV surveillance for student safety, and first-aid facilities are also available."
+        },
+        {
+          "keywords": ["students activity centre", "extracurricular", "clubs"],
+          "question": "Is there a place for student activities and events?",
+          "answer": "Yes, the campus has a Students' Activity Centre for extracurricular activities and events."
+        }
+      ]
+    },
+    {
+      "id": "faculty",
+      "label": "Faculty & Departments",
+      "entries": [
+        {
+          "keywords": ["hod computer engineering", "head of department", "who is hod"],
+          "question": "Who is the Head of Department for Computer Engineering?",
+          "answer": "Please check the department notice board or the college website for the current Head of Department, as this can change over time."
+        },
+        {
+          "keywords": ["contact faculty", "how to contact teacher"],
+          "question": "How can I contact my subject teacher?",
+          "answer": "You can meet your subject teacher during their free periods in the department, or reach out through the class WhatsApp/Google Classroom group if one has been created for your batch."
+        },
+        {
+          "keywords": ["departments", "which departments", "faculty list"],
+          "question": "Which departments does the college have?",
+          "answer": "The college has faculty across departments including Applied Science, Civil Engineering, Computer Engineering, Electronics & Communication Engineering, Electrical Engineering, Mechanical Engineering, Textile, and Fashion. Department-wise faculty details are available on the official college website."
+        }
+      ]
+    },
+    {
+      "id": "general",
+      "label": "General",
+      "entries": [
+        {
+          "keywords": ["college address", "college location", "where is college"],
+          "question": "Where is the college located?",
+          "answer": "The college, Guru Daksh Government Polytechnic, is located in Hisar, Haryana. For the exact address and directions, please check the official college website."
+        },
+        {
+          "keywords": ["contact number", "college phone number", "helpline"],
+          "question": "What is the contact number of the college office?",
+          "answer": "Please refer to the official college website or notice board for the current administrative office contact number, as this is updated from time to time."
+        },
+        {
+          "keywords": ["identity card", "id card lost", "how to get id card"],
+          "question": "What should I do if I lose my ID card?",
+          "answer": "Report the loss to your class coordinator and the administration office. You will usually need to submit a written application and a small fee to get a duplicate ID card issued."
+        },
+        {
+          "keywords": ["college history", "when was college established", "about college"],
+          "question": "Tell me about the college and when it was established.",
+          "answer": "Guru Daksh Government Polytechnic, Hisar is run under the Department of Technical Education, Government of Haryana. The institute was established in 1992 and is spread across approximately 40 acres, offering 13 diploma courses to around 3000 students."
+        },
+        {
+          "keywords": ["campus size", "how big is campus", "area of campus"],
+          "question": "How big is the college campus?",
+          "answer": "The campus is spread across approximately 40 acres."
+        },
+        {
+          "keywords": ["number of students", "student strength", "total students"],
+          "question": "How many students study at the college?",
+          "answer": "The institute has approximately 3000 students enrolled across its 13 diploma courses."
+        }
+      ]
+    }
+  ],
+  "greetings": [
+    "hi", "hello", "hey", "hii", "helo", "good morning", "good evening", "namaste"
+  ],
+  "thanks": [
+    "thanks", "thank you", "thnx", "ty", "thankyou"
+  ],
+  "goodbye": [
+    "bye", "goodbye", "see you", "exit", "quit"
+  ]
+}
